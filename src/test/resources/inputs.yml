@@ -1,0 +1,8 @@
+guide.com:
+	validInputs:
+		- a is I
+		- a a silver is 24 credits
+		- how much is a?
+	invalidInputs:
+		- dont know what to enter
+		
